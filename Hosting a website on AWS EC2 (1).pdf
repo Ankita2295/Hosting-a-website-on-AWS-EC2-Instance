@@ -1,8 +1,0 @@
-Added document file with mini project.
-Here im attaching what steps i have performed in this project.
-1. created one vpc - attached subnet to vpc (2Public and 2private subnet in 2 region.) 
-2. created security group.
-3. Created Launch Templates.
-4.Created Auto Scalling Group -Attached Load Balancer while creating ASG.
-5. Create Target Group.
-6. Copy the (internal-loadbalancer-1881542748.ap-south-1.elb.amazonaws.com   --- DNS Name from Load Balancer) and host on google.
